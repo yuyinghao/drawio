@@ -1,1 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T12:22:52.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.18" etag="trudkJkiDIgUDVWC3c69" type="github"><diagram name="第 1 页" id="Luip35YU0Pi6NZM_zl1e">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-15T03:31:19.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="DQSWYCcnm4ksOqXY4JG4" version="20.8.18" type="github">
+  <diagram name="第 1 页" id="Luip35YU0Pi6NZM_zl1e">
+    <mxGraphModel dx="1306" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-46" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="1270" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-1" target="uAghjnq6TRzH6Xh05wNe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-1" value="需求关联分支" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-4" target="uAghjnq6TRzH6Xh05wNe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-4" value="RPC接口设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-5" target="uAghjnq6TRzH6Xh05wNe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-5" value="代码声明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-6" target="uAghjnq6TRzH6Xh05wNe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-6" value="push代码到git" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="450" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-7" target="uAghjnq6TRzH6Xh05wNe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-7" value="发起接口评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="450" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-8" target="uAghjnq6TRzH6Xh05wNe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-8" value="代码实现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="450" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-9" target="uAghjnq6TRzH6Xh05wNe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-9" value="联调自测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-10" value="上线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-11" value="客户端开发人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="445" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-29" target="uAghjnq6TRzH6Xh05wNe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-29" value="在Overmind的task上面把我们开发的分支与之关联" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;spacingRight=10;spacingTop=10;spacingBottom=10;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="255" y="270" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-31" target="uAghjnq6TRzH6Xh05wNe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-31" value="先定义rpc的接口声明。&lt;br&gt;iOS是定义DSL&lt;br&gt;Android是定义一份注解" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;spacingRight=10;spacingTop=10;spacingBottom=10;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="330" y="590" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-32" target="uAghjnq6TRzH6Xh05wNe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-32" target="uAghjnq6TRzH6Xh05wNe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-32" value="前端开发人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="555" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-38" target="uAghjnq6TRzH6Xh05wNe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-38" value="1. 分支如果没有与task关联，这里会popo通知&lt;br&gt;2. push的接口会自动和task里面的技术方案关联" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;spacingRight=10;spacingTop=10;spacingBottom=10;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="540" y="270" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-39" target="uAghjnq6TRzH6Xh05wNe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-39" value="1. 在Overmind的task的技术方案中发起接口评审&lt;br&gt;2. 如果分支没有关联task，还需要先把接口与技术方案手动关联" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;spacingRight=10;spacingTop=10;spacingBottom=10;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="uAghjnq6TRzH6Xh05wNe-40" target="uAghjnq6TRzH6Xh05wNe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAghjnq6TRzH6Xh05wNe-40" value="1. 此处的上线就是把feature分支合入release分支的过程&lt;br&gt;2. 此处会做严格卡点。&lt;br&gt;以下是卡点内容：&lt;br&gt;a：已经评审，且没有新的修改&lt;br&gt;b：检测MR的代码和评审的接口一致" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;spacingRight=10;spacingTop=10;spacingBottom=10;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="350" width="160" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
